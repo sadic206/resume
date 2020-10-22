@@ -1,0 +1,87 @@
+
+
+h4 {
+  padding-top: 10px;
+  margin-left: 30px;
+color: green;
+font-weight: bold;
+font-family: sans-serif;
+
+}
+p{
+padding-left: 30px;
+padding-bottom: 20px;
+
+}
+#profile-wraper {
+  text-align: center;
+
+}
+#exp {
+background-color: green;
+
+
+}
+#tech {
+  background-color: red;
+}
+#how {
+  background-color: orange;
+}
+#plat{
+  background-color: blue;
+ color: yellow;
+}
+#job {
+  background-color: purple;
+}
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: 60px;
+  margin-right: 15px;
+}
+.card {
+  box-shadow: 5px 5px 5px 4px gray;
+
+}
+.social-link {
+
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  border-color: white;
+  border-radius: 50%;
+  border-style: solid;
+}
+.tools {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-color: white;
+  border-radius: 30%;
+  border-style: solid;
+}
+.projects {
+
+
+  width: 40px;
+  height: 40px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-color: white;
+  border-radius: 50%;
+  border-style: solid;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-family: monospace;
+  padding: 40px;
+padding-top: 20px;
+}
